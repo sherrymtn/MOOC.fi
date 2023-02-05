@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_34.Same/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_10.Story/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_26.Orwell/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_01.Sandbox/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_05.Message/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_27.Ancient/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_37.GiftTax/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_04.Dinosaur/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_08.Greeting/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_33.Password/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_36.LeapYear/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_29.Adulthood/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_32.OddOrEven/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_28.Positivity/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_02.AdaLovelace/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_13.DoubleInput/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_09.Conversation/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_12.IntegerInput/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_14.BooleanInput/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_03.OnceUponATime/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_06.HiAdaLovelace/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_16.SecondsInADay/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_24.SpeedingTicket/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_35.CheckingTheAge/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_17.SumOfTwoNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_19.AdditionFormula/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_31.GradesAndPoints/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_11.VariousVariables/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_23.SimpleCalculator/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_07.MessageThreeTimes/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_18.SumOfThreeNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_21.AverageOfTwoNumbers/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_30.LargerThanOrEqualTo/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_25.CheckYourIndentation/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_15.DifferentTypesOfInput/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_20.MultiplicationFormula/pom.xml" />
+        <option value="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_22.AverageOfThreeNumbers/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="semeru-16" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetBeansProjects.iml" filepath="$PROJECT_DIR$/.idea/NetBeansProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_01.Sandbox/Part01_01.Sandbox.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_01.Sandbox/Part01_01.Sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_02.AdaLovelace/Part01_02.AdaLovelace.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_02.AdaLovelace/Part01_02.AdaLovelace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_03.OnceUponATime/Part01_03.OnceUponATime.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_03.OnceUponATime/Part01_03.OnceUponATime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_04.Dinosaur/Part01_04.Dinosaur.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_04.Dinosaur/Part01_04.Dinosaur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_05.Message/Part01_05.Message.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_05.Message/Part01_05.Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_06.HiAdaLovelace/Part01_06.HiAdaLovelace.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_06.HiAdaLovelace/Part01_06.HiAdaLovelace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_07.MessageThreeTimes/Part01_07.MessageThreeTimes.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_07.MessageThreeTimes/Part01_07.MessageThreeTimes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_08.Greeting/Part01_08.Greeting.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_08.Greeting/Part01_08.Greeting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_09.Conversation/Part01_09.Conversation.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_09.Conversation/Part01_09.Conversation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_10.Story/Part01_10.Story.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_10.Story/Part01_10.Story.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_11.VariousVariables/Part01_11.VariousVariables.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_11.VariousVariables/Part01_11.VariousVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_12.IntegerInput/Part01_12.IntegerInput.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_12.IntegerInput/Part01_12.IntegerInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_13.DoubleInput/Part01_13.DoubleInput.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_13.DoubleInput/Part01_13.DoubleInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_14.BooleanInput/Part01_14.BooleanInput.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_14.BooleanInput/Part01_14.BooleanInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_15.DifferentTypesOfInput/Part01_15.DifferentTypesOfInput.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_15.DifferentTypesOfInput/Part01_15.DifferentTypesOfInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_16.SecondsInADay/Part01_16.SecondsInADay.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_16.SecondsInADay/Part01_16.SecondsInADay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_17.SumOfTwoNumbers/Part01_17.SumOfTwoNumbers.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_17.SumOfTwoNumbers/Part01_17.SumOfTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_18.SumOfThreeNumbers/Part01_18.SumOfThreeNumbers.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_18.SumOfThreeNumbers/Part01_18.SumOfThreeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_19.AdditionFormula/Part01_19.AdditionFormula.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_19.AdditionFormula/Part01_19.AdditionFormula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_20.MultiplicationFormula/Part01_20.MultiplicationFormula.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_20.MultiplicationFormula/Part01_20.MultiplicationFormula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_21.AverageOfTwoNumbers/Part01_21.AverageOfTwoNumbers.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_21.AverageOfTwoNumbers/Part01_21.AverageOfTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_22.AverageOfThreeNumbers/Part01_22.AverageOfThreeNumbers.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_22.AverageOfThreeNumbers/Part01_22.AverageOfThreeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_23.SimpleCalculator/Part01_23.SimpleCalculator.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_23.SimpleCalculator/Part01_23.SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_24.SpeedingTicket/Part01_24.SpeedingTicket.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_24.SpeedingTicket/Part01_24.SpeedingTicket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_25.CheckYourIndentation/Part01_25.CheckYourIndentation.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_25.CheckYourIndentation/Part01_25.CheckYourIndentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_26.Orwell/Part01_26.Orwell.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_26.Orwell/Part01_26.Orwell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_27.Ancient/Part01_27.Ancient.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_27.Ancient/Part01_27.Ancient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_28.Positivity/Part01_28.Positivity.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_28.Positivity/Part01_28.Positivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_29.Adulthood/Part01_29.Adulthood.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_29.Adulthood/Part01_29.Adulthood.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_30.LargerThanOrEqualTo/Part01_30.LargerThanOrEqualTo.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_30.LargerThanOrEqualTo/Part01_30.LargerThanOrEqualTo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_31.GradesAndPoints/Part01_31.gradesAndPoints.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_31.GradesAndPoints/Part01_31.gradesAndPoints.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_32.OddOrEven/Part01_32.OddOrEven.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_32.OddOrEven/Part01_32.OddOrEven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_33.Password/Part01_33.Password.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_33.Password/Part01_33.Password.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_34.Same/Part01_34.Same.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_34.Same/Part01_34.Same.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_35.CheckingTheAge/Part01_35.CheckingTheAge.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_35.CheckingTheAge/Part01_35.CheckingTheAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_36.LeapYear/Part01_36.LeapYear.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_36.LeapYear/Part01_36.LeapYear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_37.GiftTax/Part01_37.GiftTax.iml" filepath="$PROJECT_DIR$/mooc-java-programming-i/part01-Part01_37.GiftTax/Part01_37.GiftTax.iml" />
+    </modules>
+  </component>
+</project>
