@@ -1,0 +1,8 @@
+course = 'mooc-java-programming-i'
+[exercises."part05-Part05_11.ComparingApartments"]
+id = 83257
+checksum = 'cdfe9bad24dbe62efa9086b98d528b3a'
+
+[exercises."part05-Part05_12.Song"]
+id = 83258
+checksum = '3ebd5f45877b5762461671048dba87e0'
