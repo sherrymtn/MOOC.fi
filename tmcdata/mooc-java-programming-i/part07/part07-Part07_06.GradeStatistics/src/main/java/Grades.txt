@@ -1,0 +1,51 @@
+// import java.util.ArrayList;
+
+// public class Grades {
+
+//     private ArrayList<Integer> points;
+
+//     public Grades() {
+//         this.points = new ArrayList<>();
+        
+//     }
+//     public int sum() {
+//         int sum = 0;
+//         for (int lists: points) {
+//             sum += lists;
+//         }
+//         return sum;
+//     }
+//     public int sumOfPassingGrades() {
+//         int sum = 0;
+//         for (int lists: points) {
+//             if (lists >= 50) {
+//                 sum += lists;
+//             }
+//         }
+//         return sum;
+//     }
+
+//     public double averageofGrades() {
+//         return 1.0 * sum() / points.size();
+//     }
+
+//     public double passingOfAverageGrades() {
+//         return 1.0 * sumOfPassingGrades() / points.size();
+//     }
+
+//     public double passingPercentage(){
+//         return 100 * passingOfAverageGrades() / points.size();
+//     }
+
+//     public void gradeDistribution() {
+//         if (this.points < 50) {
+//         }
+//     }
+        
+
+//         //     
+            
+//         // }
+//         // int average = sum / points.size();
+//         // System.out.println("Points average (all): " + average);
+// }
