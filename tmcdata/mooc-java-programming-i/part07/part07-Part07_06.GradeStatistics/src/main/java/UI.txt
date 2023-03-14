@@ -1,0 +1,43 @@
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class UI {
+    private Scanner scanner;
+    private Grades register;
+
+    public UI(Grades register, Scanner scanner) {
+        this.register = new Grades();
+        this.scanner = scanner;
+    }
+    
+    public void start() {
+        scanUserInput();
+        System.out.println("");
+        printGrades();
+
+    }
+
+    private void printGrades() {
+        System.out.println(this.register.averageofGrades());
+    }
+
+    private void scanUserInput() {
+        System.out.println("Enter point totals, -1 stops:");
+        while (true) {
+            
+            int input = Integer.parseInt(scanner.nextLine());
+            if (input == -1) {
+                break;
+            }
+
+            if (!(input >= 0 && input <= 100)) {
+                System.out.println("Out of Range");
+                continue;
+            }
+            this.register.averageofGrades();
+        }
+    }
+
+
+
+}
